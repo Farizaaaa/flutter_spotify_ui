@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443281339548",
+    "project_id": "spotify-e3310",
+    "storage_bucket": "spotify-e3310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443281339548:android:4199e079b2887361316959",
+        "android_client_info": {
+          "package_name": "com.example.flutter_spotify_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNaPBPTGHyZS1nFV27alz6pS7deMDefqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443281339548:android:5c5659bc7c5cbe7b316959",
+        "android_client_info": {
+          "package_name": "farizaaa.app.amazon_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNaPBPTGHyZS1nFV27alz6pS7deMDefqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
